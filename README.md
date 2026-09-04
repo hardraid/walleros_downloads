@@ -1,4 +1,8 @@
-# Walleros - Downloads
+# Walleros
+
+Multiplayer FPS arena with full cross-platform play. Up to 20 players.
+
+Procedurally generated maps, 7 weapon types (rifle, shotgun, SMG, pistol, sniper, beam, melee), grenades, destructible environments, and AI bots for offline play.
 
 ## Client
 
